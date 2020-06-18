@@ -1,0 +1,25 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+pipenv-setup = {git = "https://github.com/Madoshakalaka/pipenv-setup",ref = "deprecate-dependency-links"}
+python-semantic-release = "*"
+
+[packages]
+"discord.py" = {git = "https://github.com/Rapptz/discord.py",ref = "refs/pull/1849/merge"}
+python-box = "*"
+click = "*"
+click-default-group = "*"
+depreciate = {editable = true,path = "."}
+parsedatetime = "*"
+jishaku = "*"
+pathlib = "*"
+loguru = "*"
+aiosqlite = "*"
+pytz = "*"
+discord-ext-menus = {git = "https://github.com/Rapptz/discord-ext-menus"}
+
+[requires]
+python_version = "3.8"
