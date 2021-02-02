@@ -79,7 +79,7 @@ setup(
             "appdirs==1.4.3",
             "attrs==19.3.0",
             "black==19.10b0",
-            "bleach==3.1.4",
+            "bleach==3.3.0",
             "cached-property==1.5.1",
             "cerberus==1.3.2",
             "certifi==2020.4.5.1",
