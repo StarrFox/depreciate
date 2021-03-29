@@ -103,7 +103,7 @@ setup(
             "pipfile==0.0.2",
             "pkginfo==1.5.0.1",
             "plette[validation]==0.2.3",
-            "pygments==2.6.1",
+            "pygments==2.7.4",
             "pyparsing==2.4.7",
             "python-dateutil==2.8.1",
             "python-gitlab==1.15.0",
