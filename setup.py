@@ -123,7 +123,7 @@ setup(
             "twine==3.1.1",
             "typed-ast==1.4.1",
             "typing==3.7.4.1",
-            "urllib3==1.25.9",
+            "urllib3==1.26.5",
             "vistir==0.5.0",
             "webencodings==0.5.1",
             "wheel==0.34.2",
