@@ -48,7 +48,7 @@ setup(
     entry_points={"console_scripts": ["depreciate = depreciate.__main__:main"]},
     python_requires=">=3.8",
     install_requires=[
-        "aiohttp==3.6.2",
+        "aiohttp==3.7.4",
         "aiosqlite==0.12.0",
         "async-timeout==3.0.1",
         "attrs==19.3.0",
