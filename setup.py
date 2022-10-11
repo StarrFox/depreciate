@@ -70,7 +70,7 @@ setup(
         "ruamel.yaml==0.16.10",
         "ruamel.yaml.clib==0.2.0; platform_python_implementation == 'CPython' and python_version < '3.9'",
         "toml==0.10.0",
-        "websockets==8.1",
+        "websockets==9.1",
         "win32-setctime==1.0.1; sys_platform == 'win32'",
         "yarl==1.4.2",
     ],
