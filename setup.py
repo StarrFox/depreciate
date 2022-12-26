@@ -126,7 +126,7 @@ setup(
             "urllib3==1.26.5",
             "vistir==0.5.0",
             "webencodings==0.5.1",
-            "wheel==0.34.2",
+            "wheel==0.38.1",
         ]
     },
 )
